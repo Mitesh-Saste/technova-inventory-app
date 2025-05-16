@@ -1,6 +1,6 @@
 # TechNova Inventory App - Dev Branch
 
-This branch integrates all new features before releasing to production (`main`).
+This branch integrates all new features before releasing to production main.
 
 ## Included Features:
 - ✅ User Login
